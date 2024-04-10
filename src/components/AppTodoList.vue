@@ -15,8 +15,6 @@ import { PropType, defineComponent } from 'vue';
 import AppTodoItem from './AppTodoItem.vue';
 import { Todo } from '@/types/Todo';
 
-
-
 export default defineComponent({
   components: {
     AppTodoItem
